@@ -1,6 +1,4 @@
-# Hey, I'm Bilawal
-
-I'm a Computer Systems Engineer and software developer from Pakistan.
+# Hey, I'm Bilawal Mehfooz
 
 I work mainly with **Flutter, Next.js, TypeScript, and Dart**, with an interest in software engineering, UI/UX, and product design.
 
@@ -8,15 +6,13 @@ I work mainly with **Flutter, Next.js, TypeScript, and Dart**, with an interest 
 
 * **Languages:** Dart, TypeScript, JavaScript
 * **Mobile:** Flutter
-* **Web:** Next.js, React
+* **Web:** Next.js
 * **Backend:** Supabase, Firebase
 * **Tools:** Git, GitHub, Vercel
 
 ### About me
 
 I enjoy building software, experimenting with ideas, and figuring out how things work under the hood.
-
-I'm especially interested in the relationship between **engineering, design, and user experience**.
 
 ---
 

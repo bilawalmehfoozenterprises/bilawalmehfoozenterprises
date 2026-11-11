@@ -8,7 +8,6 @@ I work mainly with **Flutter, Next.js, TypeScript, and Dart**, with an interest 
 * **Mobile:** Flutter
 * **Web:** Next.js
 * **Backend:** Supabase, Firebase
-* **Tools:** Git, GitHub, Vercel
 
 ### About me
 
